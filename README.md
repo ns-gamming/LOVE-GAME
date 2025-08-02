@@ -1,7 +1,11 @@
 # LOVE-GAME
 💖 Html + Css + js Love Game — Made by Naboraj Sarkar 🎮✨
 
+
 Hey there! Welcome to the Love Game, a fun and heartwarming interactive webpage designed to bring smiles, laughs, and aww-moments. Whether it’s for your special someone, a close friend, or just a sweet surprise, this mini-game is the perfect digital gift. 🎁💕
+
+
+
 
 
 🌟 What is This?
@@ -16,8 +20,12 @@ At the end, a surprise love message awaits you on a special page 🎉❤️
 It’s a digital “Aww Moment” in game form! 🥰
 
 
+
+
 🚀 Live Demo
 👉 Play it here: https://love-by-ns.netlify.app
+
+
 
 
 🖼️ Features
@@ -30,6 +38,9 @@ It’s a digital “Aww Moment” in game form! 🥰
 🖥️ 100% Browser-Based — No installation needed.
 
 🛠️ Easy to customize with your own images & messages.
+
+
+
 
 
 📂 Project Structure
@@ -52,6 +63,9 @@ Enjoy the cute, playful experience.
 Modify texts in index.html and cobaselesai.html as per your message.
 
 
+
+
+
 📜 License & Permissions
 🔒 This project is for personal use only.
 You’re welcome to:
@@ -70,13 +84,20 @@ Remove credits and redistribute.
 
 Sell or commercialize this project.
 
+
+
+
 👉 If you want to use it with attribution, or need permission for public projects, contact me:
 
 📧 Email 1: nishant.ns.business@gmail.com
 
 
+
+
 🌟 Support This Project
 If you liked this project:
+
+
 
 
 ⭐ Give it a Star — it motivates me to create more cool stuff!
@@ -86,11 +107,15 @@ If you liked this project:
 🔄 Stay updated by forking — you’ll automatically get updates when I improve the game.
 
 
+
+
 🖤 About Me
 Made with 💻 & ❤️ by Naboraj Sarkar (Nickname: Nishant)
 🎮 A passionate Gamer & Developer
 📺 YouTube: @Nishant_Sarkar
 🇮🇳 X: @NSGAMMING699
+
+
 
 
 🔥 Let’s Make Someone Smile!
